@@ -1,0 +1,15 @@
+{
+    "clients" : {                         
+      "-L1MN8igof2BizQB3F_0" : {
+        "emailId" : "Anastasia.Rodionova@Student.HTW-Berlin.de",
+        "isAdmin" : true,
+        "location" : {
+          "lat" : 40.149114,
+          "lon" : -94.50073
+        },
+        "password" : "123456",
+        "phoneNumber" : "6556575757",
+        "userName" : "TS"
+      }
+    }
+}
