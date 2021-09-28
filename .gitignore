@@ -1,5 +1,4 @@
 # compiled output
-/dist
 /tmp
 /out-tsc
 
@@ -15,12 +14,6 @@
 .settings/
 *.sublime-workspace
 
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 # misc
 /.sass-cache
@@ -39,4 +32,3 @@ Thumbs.db
 #Personal Config
 /src/environments/firebase.ConfigDummy.ts
 firebase.json
-.travis.yml

@@ -1,0 +1,9 @@
+.red-theme {
+    --navBackground: #ddaaff;
+    --productTitle: #ddaaff;
+}
+
+$variables: (
+    --navBackground: var(--navBackground),
+    --productTitle: var(--productTitle)
+);
