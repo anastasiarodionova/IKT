@@ -2864,18 +2864,22 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         _classCallCheck(this, IndexComponent);
 
         this.carouselList = [{
-          bannerImg: "./assets/banner_img/img_1.jpg",
-          title: "Apple iPhone",
-          description: "Explore iPhone, the world's most powerful personal device"
-        }, {
-          bannerImg: "./assets/banner_img/img_3.jpg",
-          title: "Never Settle - OnePlus",
-          description: " OnePlus creates beautifully designed products with premium build quality & brings the best technology to users around the world"
-        }, {
-          bannerImg: "./assets/banner_img/img_4.jpg",
-          title: "Google Pixel",
-          description: "Discover a better way to capture, store, and see the world"
-        }];
+            bannerImg: "./assets/banner_img/img_1.jpg",
+            title: "Schuhe günstig kaufen",
+            description: "Schuhe versandkostenfrei online bestellen bei AR Shop",
+          },
+          {
+            bannerImg: "./assets/banner_img/img_3.jpg",
+            title: "Große Auswahl bekannter Marken",
+            description:
+              "Im Onlineshop kann sich der Kunde in aller Ruhe die gewünschten Modelle ansehen.",
+          },
+          {
+            bannerImg: "./assets/banner_img/img_4.jpg",
+            title: "Für jeden Stil die passenden Schuhe",
+            description: "Die Vielfalt der Hersteller und Modelle macht das Einkaufen dabei leicht wie nie zuvor.",
+          },
+        ];
       }
 
       _createClass(IndexComponent, [{
